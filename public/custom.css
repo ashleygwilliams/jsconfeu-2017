@@ -1,0 +1,87 @@
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900|Merriweather:400,900,400italic);
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: white;
+}
+
+.no {
+  position: absolute;
+  top: -112px;
+  left: 0;
+}
+
+blockquote {
+  font-family: 'Merriweather', serif;
+  font-size: 2em;
+  font-style: italic;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  font-weight: 500;
+}
+
+img {
+  max-width: 100%;
+}
+
+a, a:active, a:visited {
+  color: #008B8B;
+}
+
+.space-turtle h1, .space-turtle h2 {
+  background-color: #008B8B;
+  color: white;
+  padding: 10px 20px;
+}
+
+.turtle {
+  position: absolute;
+}
+
+/* author */
+h3 {
+  text-align: right;
+  margin-right: 50px;
+}
+
+h3::before {
+  content: '—';
+}
+
+/* source */
+h5 {
+  position: absolute;
+  bottom: 10px;
+  font-weight: 400;
+  margin-right: 20px;
+  font-size: 0.5em;
+}
+
+blockquote {
+  font-size: 2em;
+  font-style: italic;
+}
+
+blockquote::before {
+  content: '“';
+  position: absolute;
+  display: inline-block;
+  margin-left: -2.1em;
+  width: 2em;
+  text-align: right;
+  font-size: 90px;
+}
+
+.highlight {
+  text-shadow: 3px 1px 0px #008B8B;
+}
+
+.remark-slide-content {
+  background-color: #2A2947;
+  position: relative;
+}

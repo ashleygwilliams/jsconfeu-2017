@@ -1,0 +1,22 @@
+{
+  "name": "a-brief-history",
+  "version": "2.0.0",
+  "description": "## up and running",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashleygwilliams/ffconf-2016.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashleygwilliams/ffconf-2016/issues"
+  },
+  "homepage": "https://github.com/ashleygwilliams/ffconf-2016#readme"
+}
