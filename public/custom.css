@@ -5,6 +5,10 @@ body {
   color: white;
 }
 
+.real-big {
+  font-size: 2.6em;
+}
+
 .no {
   position: absolute;
   top: -112px;
