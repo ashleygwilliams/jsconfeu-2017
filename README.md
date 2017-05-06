@@ -1,5 +1,5 @@
-# ffconf-2016
-my slides for my talk, "a brief history of modularity", ffconf 2016
+# jsconfeu-2017
+my slides for my talk, "a brief history of modularity", jsconfeu-2017
 
 ## up and running
 
